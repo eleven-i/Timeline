@@ -229,3 +229,5 @@ function showTooltip(x, y, contents) {
     .appendTo("body")
     .fadeIn(200);
 }
+
+export { Timeline };

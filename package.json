@@ -1,0 +1,19 @@
+{
+  "name": "timelinejs",
+  "version": "1.0.0",
+  "description": "Dotted visualisation to see trends in large quantities of data",
+  "main": "timeline.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eleven-i/Timeline.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eleven-i/Timeline/issues"
+  },
+  "homepage": "https://github.com/eleven-i/Timeline#readme"
+}
